@@ -1,0 +1,35 @@
+_repo: History-of-the-Reformation-of-the-Sixteenth-Century-Volume-III_41253
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: White, H.
+    gutenberg_agent_id: '41072'
+    url: http://www.gutenberg.org/2009/agents/41072
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merle d'Aubigné, J. H. (Jean Henri)
+    aliases:
+    - D'Aubigné, J. H. Merle (Jean Henri Merle)
+    - Aubigné, J. H. Merle d' (Jean Henri Merle)
+    - D'Aubigné, Jean Henri Merle
+    birthdate: 1794
+    deathdate: 1872
+    gutenberg_agent_id: '40857'
+    url: http://www.gutenberg.org/2009/agents/40857
+description: ''
+gutenberg_issued: '2012-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Reformation'
+title: History of the Reformation of the Sixteenth Century, Volume 3
+url: http://www.gutenberg.org/ebooks/41253
