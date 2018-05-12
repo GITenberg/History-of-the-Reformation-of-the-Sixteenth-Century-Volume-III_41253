@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '40857'
     url: http://www.gutenberg.org/2009/agents/40857
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41253#History-of-the-Reformation-of-the-Sixteenth-Century-Volume-III
 gutenberg_issued: '2012-10-31'
 gutenberg_type: Text
 identifiers:
